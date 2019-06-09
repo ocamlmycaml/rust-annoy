@@ -3,6 +3,10 @@ name = "annoy"
 version = "0.1.0"
 authors = ["ocamlmycaml"]
 edition = "2018"
+description = "A port of spotify/annoy. To be fleshed out more"
+license = "GPL-3.0"
+readme = "README.md"
+repository = "https://github.com/ocamlmycaml/rust-annoy"
 
 [dependencies]
 ndarray = '0.12.1'
